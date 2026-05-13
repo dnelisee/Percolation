@@ -20,6 +20,8 @@ On considère une grille N×N de cases initialement blanches. Des cases sont noi
 
 La percolation est testée après chaque noircissement. Trois méthodes de détection sont implémentées, du moins efficace au plus efficace :
 
+> DFS =  Depth-First Search = "parcours en profondeur récursif" 
+
 | Méthode | Principe | Complexité |
 |---|---|---|
 | `isNaivePercolation` | DFS récursif depuis une case du bord haut | O(N²) par appel |
