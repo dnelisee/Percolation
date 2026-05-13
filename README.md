@@ -122,4 +122,4 @@ La taille de la grille est définie par la constante `Percolation.size` (par dé
 
 ## Contexte
 
-Développé dans le cadre du cours **INF371** à l'École Polytechnique. 
+Développé dans le cadre du cours **INF371** à l'École polytechnique. 
